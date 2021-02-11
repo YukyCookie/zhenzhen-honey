@@ -987,7 +987,7 @@ window.__require = function e(t, n, o) {
                         scale: .9
                     }).union().repeatForever().start()
                 }, t.prototype.update = function(e) {}, t.prototype.adsButtonFunc2 = function() {
-                    window.location.href = "https://weibo.com/u/5622416838" // 结束界面左边连接
+                    window.location.href = "https://www.douban.com/group/topic/211103413/?dt_dapp=1" // 结束界面左边连接
                 }, t.prototype.bannerButtonFunc = function() {
                     window.location.href = "" // 奖杯按钮
                 }, t.prototype.ShowFailedUi = function(e, t) {
